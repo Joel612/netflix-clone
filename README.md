@@ -1,2 +1,2 @@
 # netflix-clone
-I created a clone of the netflix landing page.
+I created a clone of the Netflix landing page.
